@@ -21,11 +21,13 @@ b站：
 # 关键信息
 ### 下载
 
-Blender市场：  
+**Blender市场：**  
 [https://blendermarket.com/products/auto-dance-camera](https://blendermarket.com/products/auto-dance-camera)  
 
-微博专栏：  
+**微博专栏：**  
 [https://weibo.com/a/hot/7621648315881473_1.html](https://weibo.com/a/hot/7621648315881473_1.html)  
+
+以上两种方式均可，一样的。
 
 
 ### Github
