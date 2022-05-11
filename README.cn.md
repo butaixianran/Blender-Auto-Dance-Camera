@@ -1,7 +1,7 @@
 # Blender 扩展: Auto Dance Camera
 一个舞蹈动画经常有5000-7000帧，如果手动创建镜头运动会非常麻烦。  
 
-**该Blender扩展能够为跳舞动画自动生成镜头数据。它生成专业水准的镜头，并包含4x3x3x3x5=540种镜头组合方式。**  
+**该Blender扩展能够一键生成整个跳舞动画的镜头数据。它生成专业水准的镜头，并包含4x3x3x3x5=540种镜头组合方式。**  
 
 **因此，你再也不用找镜头数据，或手动为跳舞动画制作镜头运动了。**  
 
@@ -23,6 +23,9 @@ b站：
 
 Blender市场：  
 [https://blendermarket.com/products/auto-dance-camera](https://blendermarket.com/products/auto-dance-camera)  
+
+微博专栏：  
+[https://weibo.com/a/hot/7621648315881473_1.html](https://weibo.com/a/hot/7621648315881473_1.html)  
 
 
 ### Github
