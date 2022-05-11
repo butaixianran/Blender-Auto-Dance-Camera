@@ -22,12 +22,12 @@ b站：
 ### 下载
 
 Blender市场：  
-
+[https://blendermarket.com/products/auto-dance-camera](https://blendermarket.com/products/auto-dance-camera)  
 
 
 ### Github
 Github项目池只有文档，用于交流，不含有扩展代码  
-[https://github.com/butaixianran/Blender-Addon-Auto-Dance-Camera](https://github.com/butaixianran/Blender-Addon-Auto-Dance-Camera)  
+[https://github.com/butaixianran/Blender-Auto-Dance-Camera](https://github.com/butaixianran/Blender-Auto-Dance-Camera)  
 
 ### 版本
 本扩展: 1.0.0  
@@ -50,7 +50,7 @@ Blender: 3.0或以上
 如果你是Blender新手，不知道如何安装扩展，请网络搜索"Blender 安装扩展"  
 
 # 支持的人模
-任何类型。本扩展内建支持人模：**Daz, CC3, MMD, Rigify, Mixamo**  
+**任何类型。** 本扩展内建支持人模：**Daz, CC3, MMD, Rigify, Mixamo**  
 
 如果你的人模不是其中一种，只需在扩展面板勾选"Pick Bone"，并选择对应骨骼后，即可使用。    
 ![pick bone](img/addon_pick_bone.jpg)
@@ -63,10 +63,10 @@ Blender: 3.0或以上
 在你当前Collection下，会新建一个叫"Auto Dance Camera"的相机，带有运动数据，并自动设置为当前相机。  
 
 # 技巧
-* 移动相机的空父亲对象，可整体调整镜头  
-* 可多次点击生成按钮，然后从生成的镜头中，选择你最喜欢的
-* 对于抒情慢歌，设置镜头长度为最小3秒，最大5秒，速度为0.004比较好
-* 选择生成的摄影机，勾选"使用已选择的摄影机"，设置起始帧，就能反复重新生成这一小段，直到得到你喜欢的镜头
+* **移动相机的空父亲对象**，可整体调整镜头  
+* **可多次点击生成按钮**，然后从生成的镜头中，选择你最喜欢的
+* **对于抒情慢歌**，设置镜头长度为最小3秒，最大5秒，速度为0.004比较好
+* 选择生成的摄影机，勾选"使用已选择的摄影机"，设置起始帧，**就能反复重新生成这一小段**，直到得到你喜欢的镜头
 
 
 ## Apply Transform 问题

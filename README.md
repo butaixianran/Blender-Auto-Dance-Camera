@@ -3,11 +3,9 @@
 [中文](README.cn.md)  
 
 # Blender addon: Auto Dance Camera
-A dance animation normally comes with 5000-7000 frames. Creating its camera motion is painful.  
+A dance animation often comes with 5000-7000 frames. Creating its camera motion is painful.  
 
-**This blender addon can create camera motion for your dance animation automatically, with professional composition and combine with 4x3x3x3x5=540 total different shots.**  
-
-**So, you don't need do that manually anymore.**  
+**This Blender addon can create whole camera motion for dance animation with one click, with professional composition and combine with 4x3x3x3x5=540 total different shots.**  
 
 ![addon](img/addon_en.jpg)
 
@@ -24,10 +22,12 @@ A full song demo video:
 
 # Info
 ### Download
+Blender Market:  
+[https://blendermarket.com/products/auto-dance-camera](https://blendermarket.com/products/auto-dance-camera)  
 
 ### Github
 Github repo is for document and issues. There is no code in it.  
-[https://github.com/butaixianran/Blender-Addon-Auto-Dance-Camera](https://github.com/butaixianran/Blender-Addon-Auto-Dance-Camera)  
+[https://github.com/butaixianran/Blender-Auto-Dance-Camera](https://github.com/butaixianran/Blender-Auto-Dance-Camera)  
 
 ### Version
 Addon: 1.0.0  
@@ -62,13 +62,13 @@ If your character is not one of them, just check "Pick Bone" on addon panel, the
 It will create a new camera named "Auto Dance Camera" with motion on it in your active collection, and set that camera as active camera.  
 
 # Tips
-* Move camera's empty parent object can adjust the whole camera motion.  
+* **Move camera's empty parent object** can adjust the whole camera motion.  
 
-* Click "Generate" button mutiple times, then pick the one you like most.  
+* **Click "Generate" button mutiple times**, then pick the one you like most.  
 
-* For slow romantic song, set shot length min to 3, max to 5 and speed to 0.004 will be better  
+* **For slow romantic song**, set shot length min to 3, max to 5 and speed to 0.004 will be better  
 
-* Select a generated camera, check "Use selected camera", and set a frame range. Then you can re-generate that range again and again, until you get a shot you like.  
+* Select a generated camera, check "Use selected camera", and set a frame range. **Then you can re-generate that range again and again**, until you get a shot you like.  
 
 
 ## Apply Transform Issue
