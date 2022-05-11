@@ -11,7 +11,7 @@
 # 演示视频
 [![Demo Video](img/AutoDanceCamera-Thumb-270P.jpg)](https://youtu.be/pPet4skBmNw)  
 b站：  
-
+[https://www.bilibili.com/video/BV1HR4y1A7TG/](https://www.bilibili.com/video/BV1HR4y1A7TG/)  
 
 一整首歌的镜头演示视频:  
 [![Full Song Demo](img/ChunQin7086_thumb.jpg)](https://www.youtube.com/watch?v=K-Qp99zPrwA)  
