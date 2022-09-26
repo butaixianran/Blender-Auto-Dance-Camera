@@ -12,13 +12,11 @@ A dance animation often comes with 5000-7000 frames. Creating its camera motion 
 # Demo Video
 [![Demo Video](img/AutoDanceCamera-Thumb-270P.jpg)](https://youtu.be/pPet4skBmNw)  
 
-
-
-
 A full song demo video:  
 [![Full Song Demo](img/ChunQin7086_thumb.jpg)](https://www.youtube.com/watch?v=K-Qp99zPrwA)  
 
-
+**Export Vmd File for MMD:**  
+[![Export Vmd Demo](img/AutoDanceCamera-Thumb-2-270p.png)](https://youtu.be/D4ruacU49bM)   
 
 # Info
 ### Download
@@ -36,8 +34,7 @@ Blender: 3.0 or later
 # Feature
 * **Generate character's camera motion automatically**
 * **(New) Export camera motion into vmd file, to use in MMD**
-Demo video, Export Vmd File for MMD:  
-[![Export Vmd Demo](img/AutoDanceCamera-Thumb-2-270p.png)](https://youtu.be/D4ruacU49bM)   
+
 
 * Re-generate a range of the motion
 * Adjust moving speed, min and max length of shots, so it can be use to both pop song and slow romantic song. 
