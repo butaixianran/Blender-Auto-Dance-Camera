@@ -41,6 +41,9 @@ Blender: 3.0或以上
 # 功能
 * **全自动为舞蹈动画，生成摄像机运动**
 * **（新）导出摄像机运动为vmd文件，从而可用于MMD中**
+导出vmd文件，用于MMD的演示视频：  
+[![Export Vmd Demo](img/AutoDanceCamera-Thumb-2-270p.png)](https://youtu.be/D4ruacU49bM)   
+
 * 可重新生成指定片段的镜头运动
 * 可调节镜头移动速度，最大最小镜头长度，因此既能用于跳舞动画，也能用于抒情慢歌 
 * 允许只生成正面镜头(利于合成)

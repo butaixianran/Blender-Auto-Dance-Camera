@@ -36,6 +36,9 @@ Blender: 3.0 or later
 # Feature
 * **Generate character's camera motion automatically**
 * **(New) Export camera motion into vmd file, to use in MMD**
+Demo video, Export Vmd File for MMD:  
+[![Export Vmd Demo](img/AutoDanceCamera-Thumb-2-270p.png)](https://youtu.be/D4ruacU49bM)   
+
 * Re-generate a range of the motion
 * Adjust moving speed, min and max length of shots, so it can be use to both pop song and slow romantic song. 
 * Can only generate front shot if needed (good for composing)
