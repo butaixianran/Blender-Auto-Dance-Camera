@@ -26,6 +26,9 @@ dict = {
         (None, "Shot Chance:"):"Shot Chance:",
         (None, "Generate"):"Generate",
         (None, "Export Vmd File"):"Export Vmd File",
+        (None, "https://github.com/butaixianran/Blender-Auto-Dance-Camera"):"https://github.com/butaixianran/Blender-Auto-Dance-Camera",
+        (None, "Use Audio Beat File"):"Use Audio Beat File",
+        (None, "Upper Shot Power"):"Upper Shot Power",
     },
     "zh_CN":{
         (None, "Pick character:"):"选择人模骨架:",
@@ -52,6 +55,9 @@ dict = {
         (None, "Shot Chance:"):"镜头出现概率:",
         (None, "Generate"):"生成",
         (None, "Export Vmd File"):"导出Vmd文件",
+        (None, "https://github.com/butaixianran/Blender-Auto-Dance-Camera"):"https://github.com/butaixianran/Blender-Auto-Dance-Camera/blob/main/README.cn.md",
+        (None, "Use Audio Beat File"):"使用音频节拍文件",
+        (None, "Upper Shot Power"):"上半身镜头出现倍率",
     },
     "zh_TW":{
         (None, "Pick character:"):"選擇人模骨架:",
@@ -78,6 +84,9 @@ dict = {
         (None, "Shot Chance:"):"鏡頭出現概率:",
         (None, "Generate"):"生成",
         (None, "Export Vmd File"):"輸出Vmd文件",
+        (None, "https://github.com/butaixianran/Blender-Auto-Dance-Camera"):"https://github.com/butaixianran/Blender-Auto-Dance-Camera/blob/main/README.cn.md",
+        (None, "Use Audio Beat File"):"使用音頻節拍文件",
+        (None, "Upper Shot Power"):"上半身鏡頭出現倍率",
     },
 }
 
