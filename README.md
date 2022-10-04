@@ -34,7 +34,7 @@ Blender: 3.0 or later
 # Feature
 * **Generate character's camera motion automatically**
 * **(New) Export camera motion into vmd file, to use in MMD**
-* **(New) Extract melody beats from song and generate camera motion fit with these beats (Windows 64bit only)**  
+* **(New) Extract melody beats from song and generate camera motion can fit with these beats (Windows 64bit only)**  
 
 * Re-generate a range of the motion
 * Adjust moving speed, min and max length of shots, so it can be use to both pop song and slow romantic song. 
@@ -72,7 +72,7 @@ You selected camera's motion, now is in this vmd file, **it can be used in MMD. 
 ## Use song's melody beats (Windows 64bit only)
 Now, this addon comes with a tool can extract melody beats from audio, and export those beats into a beat file.   
 
-Then in this blender addon, you can load this generated beat file, to generate camera motion fit with the audio's melody.  
+Then in this blender addon, you can load this generated beat file, to generate camera motion can fit with the audio's melody.  
 ![pick bone](img/audio_beat.jpg)    
 
 
@@ -110,7 +110,7 @@ There are many websites can do this for free. Just upload your song, then downlo
 There are tons of free tools for this. For example:  
 [https://github.com/Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui)  
 
-Notice that, an AI audio tool like this, its file size will be more than 3GB. It's your choice.  
+Be aware of that, an AI audio tool like this, its file size will be more than 3GB. It's your choice.  
 
 After you get vocal and music seperated from the song, which one should you use in audio_beat?  
 
