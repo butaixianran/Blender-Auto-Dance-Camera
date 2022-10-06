@@ -89,7 +89,9 @@ Blender: 3.0或以上
 ![pick bone](img/audio_beat.jpg)    
 
 我们专门为此制作了一个视频教程：  
-[video will be here]  
+[https://youtu.be/o__1969y688](https://youtu.be/o__1969y688)   
+b站：  
+[https://www.bilibili.com/video/BV1j24y197jv/](https://www.bilibili.com/video/BV1j24y197jv/)  
 
 首先，在你下载扩展的地方，文件列表中，有个叫"**Audio Beat**"的zip文件。下载后，解压，运行。  
 
@@ -127,7 +129,7 @@ Blender: 3.0或以上
 
 当你得到分离的人声和音乐后，该把哪个用于audio_beat工具？  
 
-**大部分时候，用纯人声效果很好。但如果你不确定的话，可以选择Audio Type为Both，就是两个都用。然后分别选择AI提取的纯人声和音乐文件。**   
+**大部分时候，用纯人声效果最好。但如果你不确定的话，可以选择Audio Type为Both，就是两个都用。然后分别选择AI提取的纯人声和音乐文件。**   
 ![pick bone](img/audio_beat_audio_type_both.jpg)    
 
 

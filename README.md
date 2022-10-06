@@ -77,7 +77,7 @@ Then in this blender addon, you can load this generated beat file, to generate c
 
 
 We made a video tutorial for this:  
-[video will be here]  
+[https://youtu.be/o__1969y688](https://youtu.be/o__1969y688)  
 
 First, at product file list web page, there is a `.zip` file called "**Audio Beat**". Donwload and unzip it. Then run the "**audio_beat.exe**".  
 
@@ -114,7 +114,7 @@ Be aware of that, an AI audio tool like this, its file size will be more than 3G
 
 After you get vocal and music seperated from the song, which one should you use in audio_beat?  
 
-**In most case, vocal works great. But if you are not sure, you can change Audio Type to Both, then pick both vocal and music files.**   
+**In most case, vocal works best. But if you are not sure, you can change Audio Type to Both, then pick both vocal and music files.**   
 ![pick bone](img/audio_beat_audio_type_both.jpg)    
 
 
