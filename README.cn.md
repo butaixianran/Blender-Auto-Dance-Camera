@@ -25,14 +25,19 @@ b站：
 
 # 关键信息
 ### 下载
+**爱发电：**
+[https://afdian.net/item/788e0fa4d2c411ed8e0752540025c377](https://afdian.net/item/788e0fa4d2c411ed8e0752540025c377)  
+购买后，会收到站内信，里面是网盘下载地址  
 
 **Blender市场：**  
 [https://blendermarket.com/products/auto-dance-camera](https://blendermarket.com/products/auto-dance-camera)  
 
-**微博专栏：**  
-[https://weibo.com/a/hot/7621648315881473_1.html](https://weibo.com/a/hot/7621648315881473_1.html)  
+微博专栏：（已废弃，不推荐）:  
+[微博专栏](https://m.weibo.cn/c/wbox?id=wqh75bb2ni&appName=%E6%96%87%E7%AB%A0%E4%B8%93%E6%A0%8F&appIcon=&topNavMode=0&cid=7621648315881473&click_from=share)  
 
-以上两种方式均可，一样的。
+如果爱发电没有问题，微博渠道将在1个月后撤销，已经购买的用户不受影响。  
+
+以上3种方式均可，一样的。
 
 
 ### Github
@@ -40,7 +45,7 @@ Github项目池只有文档，用于交流，不含有扩展代码
 [https://github.com/butaixianran/Blender-Auto-Dance-Camera](https://github.com/butaixianran/Blender-Auto-Dance-Camera)  
 
 ### 版本
-本扩展: 2.3.0  
+本扩展: 2.3.1  
 Blender: 3.0或以上
 
 # 功能
@@ -76,12 +81,18 @@ Blender: 3.0或以上
 
 在你当前Collection下，会新建一个叫"Auto Dance Camera"的相机，带有运动数据，并自动设置为当前相机。  
 
-## 导出Vmd文件
+## 导出到MMD
 * **选择一个摄影机**（或它的空父亲对象，也可以）
-* 点击"导出Vmd文件"，保存，完成
+* 点击"导出Vmd"，保存，完成
 
-现在，你选择的摄影机上的运动，就保存在了这个vmd文件中，**可以用于mmd。不是本扩展生成摄影机，也可以导出！**  
+现在，你选择的摄影机上的运动，就保存在了这个vmd文件中，可以用于mmd。  
 
+## 导出到Daz Studio
+* **选择一个摄影机**（或它的空父亲对象，也可以）
+* 点击"导出到Daz"，保存，完成
+* Daz中， **选择一个摄影机**, 加载刚才保存的.duf文件  
+
+**不是本扩展生成摄影机，也可以导出！** 这意味着，你可以通过Vmd Retargeting扩展导入MMD的摄影机，再通过本扩展导出到Daz Studio。  
 
 ## 使用歌曲的节奏(仅限Windows 64位)
 现在，本扩展提供了一个工具，能从音频中提取节奏，并保存为一个节奏文件。   
@@ -217,6 +228,12 @@ b站：
 
 
 # 更新日志
+## 2.3.1
+* 防止摄影机落到地面下方
+
+## 2.3
+* 支持导出相机到Daz
+
 ## 2.2
 * 支持从音乐提取的节奏，来生成摄影机运动
 * 添加上半身镜头出现倍率
