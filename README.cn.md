@@ -25,7 +25,7 @@ b站：
 
 # 关键信息
 ### 下载
-**爱发电：**
+**爱发电：**  
 [https://afdian.net/item/788e0fa4d2c411ed8e0752540025c377](https://afdian.net/item/788e0fa4d2c411ed8e0752540025c377)  
 购买后，会收到站内信，里面是网盘下载地址  
 
