@@ -28,7 +28,7 @@ Github repo is for document and issues. There is no code in it.
 [https://github.com/butaixianran/Blender-Auto-Dance-Camera](https://github.com/butaixianran/Blender-Auto-Dance-Camera)  
 
 ### Version
-Addon: 2.4.0   
+Addon: 2.4.1   
 Blender: 3.0 or later
 
 # Feature
@@ -218,6 +218,9 @@ If it tracks eyes on every frame, it will be extremely slow. Better just re-gene
 
 
 # Update Log
+## 2.4.1
+* Bug fixed: When there is no enough frame rest to generate another camera movement, set last camera movement to end frame.
+
 ## 2.4
 * Support Blender 5
 * From Blender 5, there is a new group called Slots under Action. This addon only handle the first Slot

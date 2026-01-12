@@ -45,7 +45,7 @@ Github项目池只有文档，用于交流，不含有扩展代码
 [https://github.com/butaixianran/Blender-Auto-Dance-Camera](https://github.com/butaixianran/Blender-Auto-Dance-Camera)  
 
 ### 版本
-本扩展: 2.4.0  
+本扩展: 2.4.1  
 Blender: 3.0或以上
 
 # 功能
@@ -228,6 +228,9 @@ b站：
 
 
 # 更新日志
+## 2.4.1
+* 修复bug，当生成最后一个镜头移动以后，如果剩余的帧数不足以生成下一个镜头移动，则延长前一个镜头移动到结尾
+
 ## 2.4.0
 * 支持Blender 5
 * Blender 5开始，Action下多了一层Slot。本扩展只处理第一个Slot
