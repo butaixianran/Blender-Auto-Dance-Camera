@@ -28,7 +28,7 @@ Github repo is for document and issues. There is no code in it.
 [https://github.com/butaixianran/Blender-Auto-Dance-Camera](https://github.com/butaixianran/Blender-Auto-Dance-Camera)  
 
 ### Version
-Addon: 2.4.1   
+Addon: 2.4.3   
 Blender: 3.0 or later
 
 # Feature
@@ -218,7 +218,7 @@ If it tracks eyes on every frame, it will be extremely slow. Better just re-gene
 
 
 # Update Log
-## 2.4.2
+## 2.4.3
 * Allow "use beat file" and "use selected camera" be checked together.
 
 ## 2.4.1

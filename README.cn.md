@@ -45,7 +45,7 @@ Github项目池只有文档，用于交流，不含有扩展代码
 [https://github.com/butaixianran/Blender-Auto-Dance-Camera](https://github.com/butaixianran/Blender-Auto-Dance-Camera)  
 
 ### 版本
-本扩展: 2.4.1  
+本扩展: 2.4.3  
 Blender: 3.0或以上
 
 # 功能
