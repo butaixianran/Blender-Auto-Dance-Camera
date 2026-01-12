@@ -218,6 +218,9 @@ If it tracks eyes on every frame, it will be extremely slow. Better just re-gene
 
 
 # Update Log
+## 2.4.2
+* Allow "use beat file" and "use selected camera" be checked together.
+
 ## 2.4.1
 * Bug fixed: When there is no enough frame rest to generate another camera movement, set last camera movement to end frame.
 
